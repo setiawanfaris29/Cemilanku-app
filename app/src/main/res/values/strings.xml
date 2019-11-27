@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CemilanKu</string>
+    <string name="cemilanku">Cemilanku</string>
+    <string name="home">Home</string>
+    <string name="call">Call Center</string>
+    <string name="sms">SMS Center</string>
+    <string name="lokasi">Lokasi/Maps</string>
+    <string name="update">Update User dan Password</string>
+    <string name="bakso">Bakso bakar</string>
+    <string name="bakso_deskripsi">Bakso bakar Enak</string>
+    <string name="detail">Detail</string>
+    <string name="deskripsi">
+        Satu porsi Rp. 30.000
+    </string>
+</resources>
